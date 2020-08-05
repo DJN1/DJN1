@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djn1" alt="djn1" /> </p>
 
-- I’m currently working on [Shopping App (Flutter Course)](https://github.com/DJN1/flutter_course_mod_10)
+- I’m currently working on [Solving Technical Interview Problems in Javascript](https://github.com/DJN1/CTCI)
 
 - 🌱 I’m currently learning **Flutter, AWS, Technical Interview Problems**
 
