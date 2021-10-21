@@ -57,13 +57,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -80,5 +80,5 @@ Java                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
