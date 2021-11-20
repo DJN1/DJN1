@@ -57,14 +57,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              ██████████████████████░░░   90.65% 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.35%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-stockbooks               0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +80,5 @@ JavaScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
