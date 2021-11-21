@@ -57,13 +57,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+VimL                     47 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          47 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    47 mins             █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +80,5 @@ JavaScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2021
+ Last Updated on 21/11/2021
 <!--END_SECTION:waka-->
