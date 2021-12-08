@@ -57,13 +57,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+zsh                      5 mins              ████████████████████████░   96.57% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +81,5 @@ JavaScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
