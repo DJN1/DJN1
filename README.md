@@ -41,7 +41,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C664%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,6 +88,6 @@ JavaScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2022 01:01:14 UTC
+ Last Updated on 12/06/2022 01:08:52 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/431410f4-f5aa-41b8-9d09-ec8ea150c299.svg)](https://wakatime.com/@431410f4-f5aa-41b8-9d09-ec8ea150c299)
