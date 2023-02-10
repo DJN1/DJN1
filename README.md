@@ -90,4 +90,3 @@ JavaScript               7 repos             ██░░░░░░░░░�
 
  Last Updated on 10/02/2023 21:14:53 UTC
 <!--END_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/431410f4-f5aa-41b8-9d09-ec8ea150c299.svg)](https://wakatime.com/@431410f4-f5aa-41b8-9d09-ec8ea150c299)
