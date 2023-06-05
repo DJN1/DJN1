@@ -47,14 +47,13 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 10 mins        ██████████████████████░░░   87.81 % 
-Rust                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -70,5 +69,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2023 01:12:25 UTC
+ Last Updated on 05/06/2023 01:02:40 UTC
 <!--END_SECTION:waka-->
