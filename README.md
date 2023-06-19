@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm David Niederweis</h1>
-<h3 align="center">A Student passionate about all things technology.</h3>
+<h3 align="center">A Software Engineer passionate about all things technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djn1" alt="djn1" /> </p>
 
-- I’m currently working on [Solving Technical Interview Problems in Javascript](https://github.com/DJN1/CTCI)
+- I’m currently working on a personal project and life management tool.
 
-- 🌱 I’m currently learning **Flutter, AWS, Technical Interview Problems**
+- 🌱 I’m currently learning **React, Redux, and Rust**
 
 - 📫 How to reach me: **david.niederweis@gmail.com**
 
