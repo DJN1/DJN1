@@ -46,14 +46,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C143%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C143%20hrs%2053%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Bash                     4 mins              ████████████████████████░   96.55 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Bash                     4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Neovim                   4 mins              █████████████████████████   100.00 % 
@@ -75,5 +74,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2023 00:49:32 UTC
+ Last Updated on 14/10/2023 00:45:56 UTC
 <!--END_SECTION:waka-->
