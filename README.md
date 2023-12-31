@@ -52,13 +52,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    12 mins             ███████████░░░░░░░░░░░░░░   44.90 % 
+OpenEdge ABL             11 mins             ███████████░░░░░░░░░░░░░░   42.10 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +76,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2023 00:48:36 UTC
+ Last Updated on 31/12/2023 00:54:08 UTC
 <!--END_SECTION:waka-->
