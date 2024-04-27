@@ -52,14 +52,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    9 mins              █████████████████████████   99.95 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +74,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2024 00:50:17 UTC
+ Last Updated on 27/04/2024 00:49:39 UTC
 <!--END_SECTION:waka-->
