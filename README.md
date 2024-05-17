@@ -52,13 +52,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 53 mins        █████████████████████████   99.87 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +75,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2024 00:52:05 UTC
+ Last Updated on 17/05/2024 00:51:58 UTC
 <!--END_SECTION:waka-->
