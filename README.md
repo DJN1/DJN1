@@ -52,13 +52,13 @@
 
 ```text
 💬 Programming Languages: 
-SQL                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +74,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2024 00:53:42 UTC
+ Last Updated on 22/06/2024 00:53:27 UTC
 <!--END_SECTION:waka-->
