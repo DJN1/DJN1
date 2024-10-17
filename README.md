@@ -52,13 +52,13 @@
 
 ```text
 💬 Programming Languages: 
-conf                     10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +74,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2024 01:04:30 UTC
+ Last Updated on 17/10/2024 01:03:46 UTC
 <!--END_SECTION:waka-->
