@@ -46,8 +46,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%2050%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -74,5 +72,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 01:08:59 UTC
+ Last Updated on 04/11/2024 01:06:04 UTC
 <!--END_SECTION:waka-->
