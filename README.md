@@ -52,13 +52,13 @@
 
 ```text
 💬 Programming Languages: 
-jsonc                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +74,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2025 01:04:06 UTC
+ Last Updated on 07/02/2025 01:04:14 UTC
 <!--END_SECTION:waka-->
