@@ -52,13 +52,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   55 mins             █████████████████████████   98.03 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +75,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2025 01:14:19 UTC
+ Last Updated on 19/11/2025 01:14:13 UTC
 <!--END_SECTION:waka-->
