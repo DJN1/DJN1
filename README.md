@@ -52,13 +52,13 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +74,5 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 01:15:25 UTC
+ Last Updated on 19/12/2025 01:19:05 UTC
 <!--END_SECTION:waka-->
