@@ -52,13 +52,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     11 mins             █████████████████████░░░░   85.76 % 
+JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +75,5 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2025 01:22:05 UTC
+ Last Updated on 23/12/2025 01:18:49 UTC
 <!--END_SECTION:waka-->
