@@ -46,21 +46,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C701%20hrs%2044%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -74,5 +59,5 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 01:20:55 UTC
+ Last Updated on 03/01/2026 01:16:25 UTC
 <!--END_SECTION:waka-->
