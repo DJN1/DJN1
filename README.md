@@ -52,13 +52,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     14 mins             ███████████████░░░░░░░░░░   60.33 % 
+JSON                     9 mins              ██████████░░░░░░░░░░░░░░░   39.60 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +76,5 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2026 01:17:56 UTC
+ Last Updated on 14/01/2026 01:24:01 UTC
 <!--END_SECTION:waka-->
