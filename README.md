@@ -46,6 +46,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C709%20hrs%2019%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -77,5 +79,5 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 01:51:05 UTC
+ Last Updated on 03/02/2026 01:50:04 UTC
 <!--END_SECTION:waka-->
