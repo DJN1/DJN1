@@ -52,27 +52,34 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   2 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.11 % 
+TypeScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+XML                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 14 mins       ██████████████████████░░░   88.02 % 
+Android Studio           31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 45 mins       █████████████████████████   98.95 % 
+Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
 
 
- Last Updated on 25/03/2026 01:52:47 UTC
+ Last Updated on 26/03/2026 01:59:05 UTC
 <!--END_SECTION:waka-->
