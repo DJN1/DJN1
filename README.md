@@ -46,42 +46,42 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C767%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C768%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-Other                    2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Rust                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-hyprlang                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+TypeScript               2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Other                    2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Rust                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Kotlin                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 41 mins       ██████████████░░░░░░░░░░░   54.67 % 
-Windsurf                 1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-VS Code                  58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Android Studio           37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Cursor                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Neovim                   4 hrs 32 mins       █████████████░░░░░░░░░░░░   53.87 % 
+Windsurf                 1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+VS Code                  58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Android Studio           37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Cursor                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 💻 Operating System: 
-Mac                      5 hrs 23 mins       ████████████████░░░░░░░░░   62.67 % 
-Linux                    3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
+Mac                      5 hrs 23 mins       ████████████████░░░░░░░░░   63.86 % 
+Linux                    3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
 
 
- Last Updated on 12/04/2026 02:08:52 UTC
+ Last Updated on 13/04/2026 02:13:00 UTC
 <!--END_SECTION:waka-->
