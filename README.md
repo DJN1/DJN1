@@ -46,40 +46,38 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C781%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C783%20hrs%2025%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 23 mins       █████████████░░░░░░░░░░░░   52.14 % 
-Markdown                 1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Python                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               2 hrs 10 mins       █████████████░░░░░░░░░░░░   53.74 % 
+Markdown                 1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   39.01 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Unknown Editor           3 hrs 18 mins       ██████████████████░░░░░░░   71.96 % 
-Neovim                   1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Unknown Editor           2 hrs 22 mins       ███████████████░░░░░░░░░░   58.68 % 
+Neovim                   1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   41.32 % 
 
 💻 Operating System: 
-Linux                    3 hrs 21 mins       ██████████████████░░░░░░░   72.98 % 
-Mac                      1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Linux                    4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 
 
 
- Last Updated on 30/04/2026 02:34:51 UTC
+ Last Updated on 01/05/2026 02:40:52 UTC
 <!--END_SECTION:waka-->
