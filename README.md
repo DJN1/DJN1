@@ -46,6 +46,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C851%20hrs%2042%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -81,5 +83,5 @@ Lua                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 02:50:10 UTC
+ Last Updated on 25/05/2026 02:58:32 UTC
 <!--END_SECTION:waka-->
