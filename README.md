@@ -52,27 +52,30 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     33 mins             █████████████████████░░░░   82.75 % 
+hyprlang                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              33 mins             █████████████████████░░░░   83.08 % 
+Neovim                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 
 
 
- Last Updated on 09/07/2026 02:32:51 UTC
+ Last Updated on 10/07/2026 02:34:49 UTC
 <!--END_SECTION:waka-->
