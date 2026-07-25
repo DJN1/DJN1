@@ -50,13 +50,13 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +72,5 @@ Lua                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:12:40 UTC
+ Last Updated on 25/07/2026 02:12:32 UTC
 <!--END_SECTION:waka-->
