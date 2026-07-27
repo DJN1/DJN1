@@ -52,13 +52,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 50 mins        ████████████░░░░░░░░░░░░░   46.84 % 
+Markdown                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 hrs 38 mins       ███████████████████████░░   92.58 % 
+Neovim                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +79,5 @@ Lua                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 02:23:14 UTC
+ Last Updated on 27/07/2026 02:31:51 UTC
 <!--END_SECTION:waka-->
