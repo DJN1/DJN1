@@ -46,24 +46,48 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C884%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C615%20hrs%2039%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2050%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 50 mins        ████████████░░░░░░░░░░░░░   46.84 % 
-Markdown                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+TypeScript               2 hrs 51 mins       █████████████░░░░░░░░░░░░   51.89 % 
+Markdown                 1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 38 mins       ███████████████████████░░   92.58 % 
-Neovim                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Claude Code              5 hrs 10 mins       ████████████████████████░   94.25 % 
+Neovim                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 💻 Operating System: 
-Linux                    3 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 25 mins (98.8%)
+
+✍️ 5,807 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 206,986,237 Input Tokens, 686,731 Output Tokens
+
+💵 $1049.76 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 34 AI Prompts
+
+Opus                     6,727 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 96 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -79,5 +103,5 @@ Lua                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:31:51 UTC
+ Last Updated on 28/07/2026 02:05:28 UTC
 <!--END_SECTION:waka-->
