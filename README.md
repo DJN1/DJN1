@@ -54,42 +54,40 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-YAML                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Kotlin                   53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-JSON                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Markdown                 1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.50 % 
+Other                    1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+JSON                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+YAML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 56 mins       ███████████████████████░░   93.03 % 
-Android Studio           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              3 hrs 33 mins       █████████████████████████   99.87 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    5 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (94.06%)
+⏱ AI Coding Time: 3 hrs 33 mins (100.0%)
 
-✍️ 780 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 503 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 59,750,590 Input Tokens, 280,537 Output Tokens
+🔤 10,605,430 Input Tokens, 140,888 Output Tokens
 
-💵 $296.94 Estimated AI Cost This Week
+💵 $52.99 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 56 AI Prompts
+🧠 8 AI Sessions, 48 AI Prompts
 
-Opus                     818 lines           █████████████████████████   100.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     508 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 234 characters per prompt
+📝 Concise Prompter — average 113 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +103,5 @@ Lua                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 01:18:29 UTC
+ Last Updated on 12/08/2026 01:26:56 UTC
 <!--END_SECTION:waka-->
