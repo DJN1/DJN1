@@ -54,19 +54,39 @@
 
 ```text
 💬 Programming Languages: 
-sshconfig                15 mins             █████████████████████████   100.00 % 
+YAML                     1 hr 40 mins        ████████████████████░░░░░   78.02 % 
+sshconfig                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 🔥 Editors: 
-Neovim                   15 mins             █████████████████████████   100.00 % 
+Codex CLI                1 hr 24 mins        ████████████████░░░░░░░░░   65.04 % 
+Neovim                   45 mins             █████████░░░░░░░░░░░░░░░░   34.96 % 
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 53 mins (88.1%)
+
+✍️ 197 lines written by AI, 15 lines written by hand (92.92% AI-written)
+
+🔤 9,073,204 Input Tokens, 55,227 Output Tokens
+
+💵 $34.20 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 21 AI Prompts
+
+GPT                      197 lines           ████████████████████████░   94.26 % 
+Opus                     12 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.92% of written lines came from AI
+📚 Verbose Prompter — average 8,290 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 7.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +102,5 @@ Lua                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 02:48:08 UTC
+ Last Updated on 09/09/2026 02:47:34 UTC
 <!--END_SECTION:waka-->
