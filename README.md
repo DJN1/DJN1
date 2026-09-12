@@ -54,53 +54,52 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 40 mins        ████████████████████░░░░░   78.02 % 
-sshconfig                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+YAML                     2 hrs 57 mins       ███████████████████████░░   91.02 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 24 mins        ████████████████░░░░░░░░░   65.04 % 
-Neovim                   45 mins             █████████░░░░░░░░░░░░░░░░   34.96 % 
+Codex CLI                1 hr 41 mins        █████████████░░░░░░░░░░░░   52.02 % 
+Neovim                   1 hr 33 mins        ████████████░░░░░░░░░░░░░   47.98 % 
 
 💻 Operating System: 
-Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (88.1%)
+⏱ AI Coding Time: 3 hrs 14 mins (100.0%)
 
-✍️ 197 lines written by AI, 15 lines written by hand (92.92% AI-written)
+✍️ 257 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,073,204 Input Tokens, 55,227 Output Tokens
+🔤 36,019,361 Input Tokens, 102,119 Output Tokens
 
-💵 $34.20 Estimated AI Cost This Week
+💵 $97.45 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 21 AI Prompts
+🧠 12 AI Sessions, 71 AI Prompts
 
-GPT                      197 lines           ████████████████████████░   94.26 % 
-Opus                     12 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+GPT                      271 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.92% of written lines came from AI
-📚 Verbose Prompter — average 8,290 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.08% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 16,930 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 
 
 
- Last Updated on 11/09/2026 02:42:48 UTC
+ Last Updated on 12/09/2026 02:52:19 UTC
 <!--END_SECTION:waka-->
