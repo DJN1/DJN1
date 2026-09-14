@@ -54,37 +54,36 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 57 mins       ███████████████████████░░   91.88 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+YAML                     1 hr 40 mins        ██████████████████████░░░   88.57 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 39 mins        █████████████░░░░░░░░░░░░   51.57 % 
-Neovim                   1 hr 33 mins        ████████████░░░░░░░░░░░░░   48.43 % 
+Codex CLI                1 hr 24 mins        ██████████████████░░░░░░░   73.83 % 
+Neovim                   29 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
 
 💻 Operating System: 
-Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (100.0%)
+⏱ AI Coding Time: 1 hr 53 mins (100.0%)
 
-✍️ 256 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 197 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,875,163 Input Tokens, 99,390 Output Tokens
+🔤 9,184,271 Input Tokens, 55,870 Output Tokens
 
-💵 $96.81 Estimated AI Cost This Week
+💵 $34.51 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 70 AI Prompts
+🧠 6 AI Sessions, 22 AI Prompts
 
-GPT                      270 lines           █████████████████████████   100.00 % 
+GPT                      197 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 17,166 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 7,917 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -101,5 +100,5 @@ Lua                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 02:51:02 UTC
+ Last Updated on 14/09/2026 03:05:11 UTC
 <!--END_SECTION:waka-->
