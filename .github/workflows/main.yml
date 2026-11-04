@@ -10,6 +10,25 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      # TEMP: diagnose non-JSON response from Wakapi on GitHub runners
+      - name: Debug Wakapi response
+        env:
+          WAKAPI_URL: ${{ secrets.WAKAPI_URL }}
+          WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+        run: |
+          echo "Runner public IP: $(curl -s https://api.ipify.org)"
+          echo "WAKAPI_URL length: ${#WAKAPI_URL}, ends with slash: $([[ $WAKAPI_URL == */ ]] && echo yes || echo no)"
+          echo "WAKAPI_API_KEY length: ${#WAKAPI_API_KEY}"
+          echo
+          echo "=== Exact request the action makes (python-httpx UA) ==="
+          curl -sS -A "python-httpx/0.28.1" -D - -o body.txt -w "HTTP %{http_code} %{content_type}\n" \
+            "${WAKAPI_URL}users/current/stats/all_time?api_key=${WAKAPI_API_KEY}" || true
+          echo "--- body (first 800 bytes) ---"
+          head -c 800 body.txt; echo
+          echo
+          echo "=== Health check without auth (Cloudflare vs origin) ==="
+          curl -sS -o /dev/null -w "HTTP %{http_code} %{content_type}\n" \
+            "$(echo "$WAKAPI_URL" | sed -E 's#(https?://[^/]+).*#\1#')/api/health" || true
       - uses: anmol098/waka-readme-stats@master
         with:
           # Self-hosted Wakapi via its WakaTime-compatible API
